@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathrijonna" alt="gayathrijonna" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Azure Devops**
 
-- 👨‍💻 All of my projects are available at [abcd](abcd)
+- 👨‍💻 All of my projects are available at [github projects](https://github.com/gayathrijonna?tab=repositories)
 
-- 💬 Ask me about **react, Dotnet Framework**
+- 💬 Ask me about **react,Angular, Dotnet Framework**
 
 - 📫 How to reach me **gayathrijonna2@gmail.com**
 
