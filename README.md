@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gayathrijonna2@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume][(https://github.com/gayathrijonna/gayathrijonna/blob/56c2ff3e9fb94179a828da1378997fb28ae01993/Gayathri%20Jonna%20Resume.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
