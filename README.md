@@ -12,6 +12,7 @@
 - 💬 Ask me about **react,Angular, Dotnet Framework**
 
 - 📫 How to reach me **gayathrijonna2@gmail.com**
+-  I am **Microsoft certified Azure Developer Associate**
 
 - 📄 Know about my experiences [resume](https://github.com/gayathrijonna/gayathrijonna/blob/56c2ff3e9fb94179a828da1378997fb28ae01993/Gayathri%20Jonna%20Resume.pdf)
 
